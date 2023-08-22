@@ -24,6 +24,7 @@
 ### Heart
 
 - Level 4: The Other Line -> **Lesson: Lesson: Preliminal Meter**, *Confounding Parable*
+- Level 6: The Ceaseless Tantra -> **Lesson: Weaving & Knotworking**, *Memory: Impulse*
 
 ### Grail
 
@@ -33,10 +34,15 @@
 ### Knock
 
 - Level 6: The Locksmith's Dream: Trespasses -> **Lesson: Edicts Liminal**, *Memory: Impulse*
+- Level 8: The Gospel of Zacchaeus -> 2x **Lesson: Horns & Ivories**, *Memory: A Stolen Secret*
 
 ### Moth
 
 - Level 8: The Fire-Circle Tantra -> 2x **Lesson: Solutions & Separations**, *Memory: Intuition*
+
+### Edge
+
+- Level 4: De Horis book 2 -> **Lesson: Disciplines of the Hammer**, *Memory: Foresight*
 
 ## Memories
 
@@ -66,6 +72,7 @@
 - Memory: Satisfaction (2x Grail, 1x Heart)
 - Memory: Impulse (2x Moth, 1x Nectar)
 - Memory: Intuition (2x Moon, 2x Rose)
+- Memory: A Stolen Secret (1x Knock, 2x Moon)
 - Confounding Parable (2x Moon, 2x Rose)
 - Wistful Air (2x Rose, 2x Sky, Sound)
 
@@ -74,3 +81,5 @@
 - Rain (2x Grail, 2x Nectar)
 - Clouds (1x Moon, 1x Moth)
 - Storm (4x Heart, 4x Sky)
+- Fog (3x Knock, 3x Moon)
+- Hail (3x Edge, 3x Sky)
