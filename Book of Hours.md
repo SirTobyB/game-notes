@@ -11,6 +11,7 @@
 
 - Level 6: Travelling at Night, vol 2 -> **Lesson: Sights & Sensations**, *Memory: Solace*
 - Level 6: Eva's Treasury -> **Lesson: Anbary & Lapidary**, *Memory: Foresight*
+- Level 8: A Seventh Voice -> 2x **Lesson: Preliminal Meter**, *Confounding Parable*
 
 ### Scale
 
@@ -24,7 +25,9 @@
 ### Heart
 
 - Level 4: The Other Line -> **Lesson: Lesson: Preliminal Meter**, *Confounding Parable*
+- Level 4: The Orchid Transfigurations: Noon -> **Lesson: Maggephene Mysteries**, ?
 - Level 6: The Ceaseless Tantra -> **Lesson: Weaving & Knotworking**, *Memory: Impulse*
+- Level 8: The Flayed Tantra -> 2x **Lesson: Maggephene Mysteries**, ?
 
 ### Grail
 
@@ -43,6 +46,16 @@
 ### Edge
 
 - Level 4: De Horis book 2 -> **Lesson: Disciplines of the Hammer**, *Memory: Foresight*
+- Level 6: The High Traditions of the Noble Endeavour -> **Lesson: Disciplines of the Hammer**, *Memory: Foresight*
+
+### Forge
+
+- Level 6: Journal of Walter Dewulf -> **Lesson: Door & Wall**, *Memory: Foresight*
+
+### Lantern
+
+- Level 6: The Known-Unknown Tantra -> **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
+- Level 8: Prophecies of Glory -> 2x **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
 
 ## Memories
 
@@ -73,6 +86,7 @@
 - Memory: Impulse (2x Moth, 1x Nectar)
 - Memory: Intuition (2x Moon, 2x Rose)
 - Memory: A Stolen Secret (1x Knock, 2x Moon)
+- Memory: Revelation (2x Lantern)
 - Confounding Parable (2x Moon, 2x Rose)
 - Wistful Air (2x Rose, 2x Sky, Sound)
 
@@ -83,3 +97,5 @@
 - Storm (4x Heart, 4x Sky)
 - Fog (3x Knock, 3x Moon)
 - Hail (3x Edge, 3x Sky)
+- Snow (3x Sky, 3x Winter)
+- Gale (3x Heart, 3x Sky)
