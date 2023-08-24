@@ -57,6 +57,10 @@
 - Level 6: The Known-Unknown Tantra -> **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
 - Level 8: Prophecies of Glory -> 2x **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
 
+### Nectar
+
+- Level 8: De Ratio Quercuum -> 2x **Lesson: Rites of the Roots**, *Earth-Sign*
+
 ## Memories
 
 ### From examination of objects
@@ -89,6 +93,7 @@
 - Memory: Revelation (2x Lantern)
 - Confounding Parable (2x Moon, 2x Rose)
 - Wistful Air (2x Rose, 2x Sky, Sound)
+- Earth-Sign (2x Nectar, 2x Scale, Omen, Persistent)
 
 ## List of known weather
 
@@ -99,3 +104,4 @@
 - Hail (3x Edge, 3x Sky)
 - Snow (3x Sky, 3x Winter)
 - Gale (3x Heart, 3x Sky)
+- Sunny (2x Lantern, 2x Sky)
