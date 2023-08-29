@@ -56,6 +56,7 @@
 
 - Level 6: The Known-Unknown Tantra -> **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
 - Level 8: Prophecies of Glory -> 2x **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
+- Level 8: A Light in the Inkwell -> 2x **Lesson: Inks of Revelation**, *Memory: Revelation*
 
 ### Nectar
 
