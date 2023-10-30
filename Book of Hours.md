@@ -17,12 +17,14 @@
 ### Scale
 
 - Level 4: One Hundred And Eight -> **Lesson: Pentiments & Precursors**, *Confounding Parable*
+- Level 6: Key of Night -> **Lesson: Pentiments & Precursors**, *Memory: Fear*
 
 ### Moon
 
 - Level 4: The Viennese Conundra -> **Lesson: Wolf Stories**, *Memory: Fear*
 - Level 8: To a Pale Lady -> 2x **Lesson: Pearl & Tide**, *Memory: Salt*
 - Level 8: Malachite Supplications -> 2x **Lesson: Tridesma Hiera**, *Memory: Impulse*
+- Level 8: The Crossing to Noon -> 2x **Lesson: Sea Stories**, *Memory: Salt*
 
 ### Heart
 
@@ -54,6 +56,7 @@
 ### Forge
 
 - Level 6: Journal of Walter Dewulf -> **Lesson: Door & Wall**, *Memory: Foresight*
+- Level 10: Skin of Silver -> 2x **Lesson: Disciplines of the Hammer**, *Memory: Fear*
 
 ### Lantern
 
@@ -97,6 +100,14 @@
 
 - [Desk: Pale] Phost + Inks of Revelation (for 5 Lantern) -> Refulgin (2x Lantern, Material, Pigment)
 - [Desk: Pale] Phost + Watchman's Paradoxes (for 5 Lantern) -> Tanglebrag (1x Lantern, 2x Moth, 1x Nectar, 1x Scale, Material)
+
+### Edge
+
+- [Practic Garden Dummy] Ereb + Disciplines of the Hammer + Ereb (for 5 Edge) -> Labhitic Tincture (2x Edge, 1x Lantern, Material)
+
+### Scale
+
+- [Practic Garden Dummy] +Health + Horns & Ivories + Health -> Bisclavret's Knot (1x Moth, 2x Scale, Thing, Mark)
 
 ## List of known memories
 
