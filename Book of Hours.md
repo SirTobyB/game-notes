@@ -6,6 +6,7 @@
 
 - Level 6: Chione at Abydos -> *Memory: Regret*
 - Level 6: The Five Letters On Memory -> 1x **Lesson: Rhyme & Remembrance**, *Memory: Regret*
+- Level 8: Ettery After -> 2x **Lesson: Inks of Containment**, *Memory: Hindsight*
 - Level 10: The Barrowchild's Elegies -> 2x **Lesson: Rhyme & Remembrance**, *Memory: Regret*
 
 ### Sky
@@ -47,6 +48,7 @@
 ### Moth
 
 - Level 8: The Fire-Circle Tantra -> 2x **Lesson: Solutions & Separations**, *Memory: Intuition*
+- Level 8: The Rose of Hypatia -> 2x **Lesson: Weaving & Knotworking**, *Memory: Solace*
 
 ### Edge
 
@@ -64,6 +66,8 @@
 - Level 6: The Known-Unknown Tantra -> **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
 - Level 8: Prophecies of Glory -> 2x **Lesson: Watchman's Paradoxes**, *Memory: Revelation*
 - Level 8: A Light in the Inkwell -> 2x **Lesson: Inks of Revelation**, *Memory: Revelation*
+- Level 8: The Watchful Tantra -> 2x **Lesson: Purifications & Exaltations**, *Memory: Revelation*
+- Level 8: Letters To My Successor -> 2x **Lesson: Inks of Revelation**, *Memory: Revelation*
 
 ### Nectar
 
@@ -87,6 +91,7 @@
 - [Desk: Pale] Wist + Rhyme & Remembrance (for 5 Winter) -> Bittersweet Certainty (1x Lantern, 2x Winter, Sound)
 - [Desk: Pale] Wist + Inks of Containtment (for 5 Winter) -> Eigengrau (1x Moon, 1x Winter, Liquid, Beverage)
 - [Desk: Eva] Wist + Inks of Containtment + Nume-Brume (for 10 Winter) -> Eigengrau (1x Moon, 1x Winter, Liquid, Beverage)
+- [Necropsy Table] +Wist + Rhyme & Remembrance + Snow + *any Remains* (for 10 Winter) -> Essential Periost (2x Moon, 4x Nectar, 4x Scale, 4x Winter, Thing, Remains)
 
 ### Sky
 
