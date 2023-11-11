@@ -42,6 +42,7 @@
 
 - Level 6: The Locksmith's Dream: Trespasses -> **Lesson: Edicts Liminal**, *Memory: Impulse*
 - Level 8: The Gospel of Zacchaeus -> 2x **Lesson: Horns & Ivories**, *Memory: A Stolen Secret*
+- Level 12: On the Matter and the Deeds of Serpents -> 2x **Lesson: Edicts Liminal**, *Secret Threshold*
 
 ### Moth
 
@@ -95,6 +96,7 @@
 
 - [Necropsy Table] Shapt + Preliminal Meter (for 5 Knock) -> Secret Threshold (2x Knock, 1x Rose)
 - [Necropsy Table] Shapt + Solutions & Separations + Secret Threshold (for 5 Knock) -> Amethyst Ampoule (2x Heart, 2x Knock, Liquid)
+- [Shrine: St Januarius] Shapt + Preliminal Meter + Scret Threshold + Shapt (for 10 Knock) -> Curious Hunch (4x Knock, 3x Lantern, 3x Moth, 3x Heart, Memory, Persistent, Omen)
 
 ### Lantern
 
@@ -130,6 +132,7 @@
 - Earth-Sign (2x Nectar, 2x Scale, Omen, Persistent)
 - Secret Threshold (2x Knock, 1x Rose)
 - Bittersweet Certainty (1x Lantern, 2x Winter, Sound)
+- Curious Hunch (4x Knock, 3x Lantern, 3x Moth, 3x Heart, Persistent, Omen)
 
 ## List of known weather
 
