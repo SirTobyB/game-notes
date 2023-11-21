@@ -33,6 +33,7 @@
 - Level 4: The Orchid Transfigurations: Noon -> **Lesson: Maggephene Mysteries**, ?
 - Level 6: The Ceaseless Tantra -> **Lesson: Weaving & Knotworking**, *Memory: Impulse*
 - Level 8: The Flayed Tantra -> 2x **Lesson: Maggephene Mysteries**, ?
+- Level 8: Rapt in the King -> 2x **Lesson: Drums & Dances**, *Earth-Sign*
 
 ### Grail
 
@@ -55,10 +56,12 @@
 - Level 4: De Horis book 2 -> **Lesson: Disciplines of the Hammer**, *Memory: Foresight*
 - Level 6: The High Traditions of the Noble Endeavour -> **Lesson: Disciplines of the Hammer**, *Memory: Foresight*
 - Level 6: Exorcism for Girls -> **Lesson: Sickle & Eclipse**, *Memory: Fear*
+- Level 10: The Ascendant -> 2x **Lesson: Edicts Martial**, *Memory: Contradiction*
 
 ### Forge
 
 - Level 6: Journal of Walter Dewulf -> **Lesson: Door & Wall**, *Memory: Foresight*
+- Level 8: Ambrosial! -> 2x **Lesson: Spices & Savours**, *Memory: Impulse*
 - Level 10: Skin of Silver -> 2x **Lesson: Disciplines of the Hammer**, *Memory: Fear*
 
 ### Lantern
