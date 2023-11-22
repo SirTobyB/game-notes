@@ -43,6 +43,7 @@
 ### Knock
 
 - Level 6: The Locksmith's Dream: Trespasses -> **Lesson: Edicts Liminal**, *Memory: Impulse*
+- Level 6: The Elations of Limentinus -> **Lesson: The Great Signs and the Great Scars**, *Memory: Pattern*
 - Level 8: The Gospel of Zacchaeus -> 2x **Lesson: Horns & Ivories**, *Memory: A Stolen Secret*
 - Level 12: On the Matter and the Deeds of Serpents -> 2x **Lesson: Edicts Liminal**, *Secret Threshold*
 
@@ -62,6 +63,7 @@
 
 - Level 6: Journal of Walter Dewulf -> **Lesson: Door & Wall**, *Memory: Foresight*
 - Level 8: Ambrosial! -> 2x **Lesson: Spices & Savours**, *Memory: Impulse*
+- Level 8: The Incandescent Tantra -> 2x **Lesson: Transformations & Liberations**, *Memory: Foresight*
 - Level 10: Skin of Silver -> 2x **Lesson: Disciplines of the Hammer**, *Memory: Fear*
 
 ### Lantern
@@ -135,6 +137,7 @@
 - Memory: Revelation (2x Lantern)
 - Memory: Touch (1x Forge)
 - Memory: Contradiction (2x Edge, 1x Moon)
+- Memory: Pattern (1x Forge, 2x Knock)
 - Confounding Parable (2x Moon, 2x Rose)
 - Wistful Air (2x Rose, 2x Sky, Sound)
 - Earth-Sign (2x Nectar, 2x Scale, Omen, Persistent)
