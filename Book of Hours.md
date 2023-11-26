@@ -4,6 +4,7 @@
 
 ### Winter
 
+- Level 4: An Introduction to Histories -> **Lesson: Snow Stories**, *Memory: Hindsight*
 - Level 6: Chione at Abydos -> *Memory: Regret*
 - Level 6: The Five Letters On Memory -> 1x **Lesson: Rhyme & Remembrance**, *Memory: Regret*
 - Level 8: Ettery After -> 2x **Lesson: Inks of Containment**, *Memory: Hindsight*
@@ -18,11 +19,13 @@
 ### Scale
 
 - Level 4: One Hundred And Eight -> **Lesson: Pentiments & Precursors**, *Confounding Parable*
+- Level 4: The Queens of the Rivers -> **Lesson: Path & Pilgrim**, *Memory: Gossip*
 - Level 6: Key of Night -> **Lesson: Pentiments & Precursors**, *Memory: Fear*
 
 ### Moon
 
 - Level 4: The Viennese Conundra -> **Lesson: Wolf Stories**, *Memory: Fear*
+- Level 6: The Kerisham Portolan -> **Lesson: Sea Stories**, *Memory: Gossip*
 - Level 8: To a Pale Lady -> 2x **Lesson: Pearl & Tide**, *Memory: Salt*
 - Level 8: Malachite Supplications -> 2x **Lesson: Tridesma Hiera**, *Memory: Impulse*
 - Level 8: The Crossing to Noon -> 2x **Lesson: Sea Stories**, *Memory: Salt*
@@ -121,6 +124,17 @@
 
 - [Practic Garden Dummy] +Health + Horns & Ivories + Health -> Bisclavret's Knot (1x Moth, 2x Scale, Thing, Mark)
 
+### Nectar
+
+Summer (or Numa):
+
+- [Garden (St Brandan’s Cloister)] Orchids & Narcotics + Chor -> Sea Holly (1x Moon, 1x Nectar, 1x Winter, Flower)
+
+Only Numa Season:
+
+- [Garden (Practic Garden)] Drums & Dances + +Health -> Pyrus Auricalcinus (4x Lantern, 4x Nectar, Sustenance, Fruit)
+- [Garden (Physic Garden)] Rites of the Roots + Health -> Aglaophotis (2x Heart, 2x Knock, 2x Lantern, 1x Nectar, 2x Rose, Flower)
+
 ## List of known memories
 
 - Memory: Solace (2x Heart, 1x Sky)
@@ -138,6 +152,7 @@
 - Memory: Touch (1x Forge)
 - Memory: Contradiction (2x Edge, 1x Moon)
 - Memory: Pattern (1x Forge, 2x Knock)
+- Memory: Gossip (1x Grail, 2x Rose)
 - Confounding Parable (2x Moon, 2x Rose)
 - Wistful Air (2x Rose, 2x Sky, Sound)
 - Earth-Sign (2x Nectar, 2x Scale, Omen, Persistent)
@@ -155,3 +170,7 @@
 - Snow (3x Sky, 3x Winter)
 - Gale (3x Heart, 3x Sky)
 - Sunny (2x Lantern, 2x Sky)
+
+Only Numa Season:
+
+- Nume-Brume (5x Knock, 5x Moon, 5x Rose, 5x Winter)
